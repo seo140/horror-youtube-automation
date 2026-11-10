@@ -1,0 +1,6 @@
+Horror YouTube Automation - Make + Render free experimental build
+1. Read README_AR.md
+2. Upload repo contents to GitHub and deploy to Render Free via Blueprint.
+3. Connect Google OAuth once, test short with publish=false.
+4. Only after verified: Make schedule POST /run with publish=true.
+No payment card is required for Render Free, but long-running video workloads are NOT guaranteed on Render free hardware.

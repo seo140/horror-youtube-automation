@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: horror-youtube-automation
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: ENABLE_AUTOPUBLISH
+        value: "false"
+      - key: AUTOMATION_KEY
+        generateValue: true

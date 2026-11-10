@@ -1,0 +1,19 @@
+{
+  "expected_channel_id": "UC7DQ1Bd-smHjVQxAtN-1eTg",
+  "gemini_model": "gemini-2.5-flash",
+  "topic_style": "قصص رعب خيالية نفسية وغموض وإثارة لجمهور عربي، بحكايات جديدة ونهايات غير متوقعة، بدون دماء أو عنف صادم",
+  "long_scene_count": 10,
+  "short_scene_count": 6,
+  "long_resolution": [
+    854,
+    480
+  ],
+  "short_resolution": [
+    480,
+    854
+  ],
+  "max_stock_clips_per_video": 3,
+  "video_fps": 8,
+  "publish_timezone": "Africa/Cairo",
+  "publish_local_hour": 20
+}
